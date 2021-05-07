@@ -1,0 +1,7 @@
+C:\Users\adolf\Documents\Programacion\CSharp\PruebaTecnica\bin\Debug\PruebaTecnica.exe.config
+C:\Users\adolf\Documents\Programacion\CSharp\PruebaTecnica\bin\Debug\PruebaTecnica.exe
+C:\Users\adolf\Documents\Programacion\CSharp\PruebaTecnica\bin\Debug\PruebaTecnica.pdb
+C:\Users\adolf\Documents\Programacion\CSharp\PruebaTecnica\obj\Debug\PruebaTecnica.csprojAssemblyReference.cache
+C:\Users\adolf\Documents\Programacion\CSharp\PruebaTecnica\obj\Debug\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Documents\Programacion\CSharp\PruebaTecnica\obj\Debug\PruebaTecnica.exe
+C:\Users\adolf\Documents\Programacion\CSharp\PruebaTecnica\obj\Debug\PruebaTecnica.pdb
